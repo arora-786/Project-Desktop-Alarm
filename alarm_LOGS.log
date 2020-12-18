@@ -1,0 +1,141 @@
+DEBUG 2020-12-04 14:59:10,083 :: PASS: The time is in correct format
+DEBUG 2020-12-04 14:59:10,087 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-04 14:59:10,320 :: https://www.youtube.com:443 "HEAD /watch?v=foE1mO2yM04%0A HTTP/1.1" 303 0
+DEBUG 2020-12-04 15:00:00,326 :: Wake up!: The time has come! Opening your youtube video!
+DEBUG 2020-12-04 15:04:21,656 :: PASS: The time is in correct format
+DEBUG 2020-12-04 15:04:21,664 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-04 15:04:21,908 :: https://www.youtube.com:443 "HEAD /watch?v=BQ0mxQXmLsk%0A HTTP/1.1" 303 0
+DEBUG 2020-12-04 15:05:00,925 :: Wake up!: The time has come! Opening your youtube video!
+DEBUG 2020-12-04 15:10:43,582 :: PASS: The time is in correct format
+DEBUG 2020-12-04 15:10:43,589 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-04 15:10:44,454 :: https://www.youtube.com:443 "HEAD /watch?v=IT8XvzIfi4U HTTP/1.1" 200 0
+DEBUG 2020-12-04 15:11:01,469 :: Wake up!: The time has come! Opening your youtube video!
+DEBUG 2020-12-04 15:12:51,501 :: PASS: The time is in correct format
+DEBUG 2020-12-04 15:12:51,504 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-04 15:12:51,756 :: https://www.youtube.com:443 "HEAD /watch?v=foE1mO2yM04%0A HTTP/1.1" 303 0
+DEBUG 2020-12-04 15:13:00,765 :: Wake up!: The time has come! Opening your youtube video!
+DEBUG 2020-12-05 17:59:52,566 :: PASS: The time is in correct format
+DEBUG 2020-12-05 17:59:52,700 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-05 17:59:53,170 :: https://www.youtube.com:443 "HEAD /watch?v=BQ0mxQXmLsk%0A HTTP/1.1" 303 0
+DEBUG 2020-12-05 18:00:01,190 :: Wake up!: The time has come! Opening your youtube video!
+DEBUG 2020-12-05 21:58:03,667 :: PASS: The time is in correct format
+DEBUG 2020-12-05 21:58:03,676 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-05 21:58:04,032 :: https://www.youtube.com:443 "HEAD /watch?v=BQ0mxQXmLsk%0A HTTP/1.1" 303 0
+DEBUG 2020-12-05 22:14:23,777 :: PASS: The time is in correct format
+DEBUG 2020-12-05 22:14:23,798 :: Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG 2020-12-05 22:14:24,092 :: https://www.youtube.com:443 "HEAD /watch?v=anM6uIZvx74%0A HTTP/1.1" 303 0
+DEBUG 2020-12-05 22:15:01,099 :: Wake up!: The time has come! Opening your youtube video!
+CRITICAL 2020-12-05 23:18:57,120 :: FAIL: Please enter the time in correct format
+DEBUG 2020-12-06 05:24:34,362 :: PASS: Input does not have special characters.
+DEBUG 2020-12-06 05:25:14,780 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-06 05:25:22,907 :: FAIL: Special characters detected.
+CRITICAL 2020-12-06 05:28:55,753 :: FAIL: Special characters detected.
+DEBUG 2020-12-06 05:29:03,070 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-06 05:29:03,070 :: FAIL: Please enter the time in correct format
+DEBUG 2020-12-06 05:31:07,115 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-06 05:31:07,115 :: FAIL: Please enter the time in correct format
+CRITICAL 2020-12-06 05:31:38,659 :: FAIL: Special characters detected.
+DEBUG 2020-12-06 05:31:47,651 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-06 05:31:47,651 :: FAIL: Please enter the time in correct format
+DEBUG 2020-12-07 22:10:48,517 :: PASS: Input does not have special characters.
+DEBUG 2020-12-07 22:11:02,373 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-07 22:11:02,373 :: FAIL: Please enter the time in correct format
+DEBUG 2020-12-07 22:11:32,356 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-07 22:11:32,356 :: FAIL: Please enter the time in correct format
+CRITICAL 2020-12-07 22:23:02,741 :: FAIL: No value provided.
+CRITICAL 2020-12-07 22:23:08,269 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:28:33,273 :: FAIL: No value provided.
+DEBUG 2020-12-07 23:29:06,528 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:29:06,528 :: FAIL: Special characters detected.
+DEBUG 2020-12-07 23:29:12,863 :: PASS: Input is provided.
+DEBUG 2020-12-07 23:29:12,864 :: PASS: Input does not have special characters.
+DEBUG 2020-12-07 23:29:21,866 :: PASS: Input is provided.
+DEBUG 2020-12-07 23:29:21,866 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-07 23:31:43,328 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:31:57,495 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:32:03,242 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:32:19,904 :: FAIL: No value provided.
+DEBUG 2020-12-07 23:32:35,537 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:32:35,537 :: FAIL: Special characters detected.
+CRITICAL 2020-12-07 23:32:49,200 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:35:34,964 :: FAIL: No value provided.
+CRITICAL 2020-12-07 23:35:43,351 :: FAIL: No value provided.
+DEBUG 2020-12-07 23:37:29,010 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:37:29,010 :: FAIL: Special characters detected.
+DEBUG 2020-12-07 23:37:38,314 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:37:38,314 :: FAIL: Special characters detected.
+DEBUG 2020-12-07 23:37:52,609 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:37:52,609 :: FAIL: Special characters detected.
+CRITICAL 2020-12-07 23:43:22,707 :: FAIL: No value provided.
+DEBUG 2020-12-07 23:43:28,998 :: PASS: Input is provided.
+CRITICAL 2020-12-07 23:43:28,998 :: FAIL: Special characters detected.
+DEBUG 2020-12-07 23:43:41,299 :: PASS: Input is provided.
+DEBUG 2020-12-07 23:43:41,300 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-07 23:43:41,300 :: FAIL: Please enter time in correct format
+DEBUG 2020-12-07 23:54:59,310 :: PASS: Input is provided.
+DEBUG 2020-12-07 23:54:59,310 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-07 23:54:59,310 :: FAIL: Please enter time in correct format
+CRITICAL 2020-12-08 00:24:59,851 :: FAIL: No value provided.
+DEBUG 2020-12-10 18:03:29,322 :: PASS: Input is provided.
+DEBUG 2020-12-10 18:03:29,409 :: PASS: Input does not have special characters.
+DEBUG 2020-12-10 18:03:29,409 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-10 18:04:08,862 :: PASS: Input is provided.
+DEBUG 2020-12-10 18:04:08,862 :: PASS: Input does not have special characters.
+DEBUG 2020-12-10 18:04:08,862 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 03:53:06,540 :: PASS: Input is provided.
+DEBUG 2020-12-11 03:53:06,540 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 03:53:06,540 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 03:57:00,265 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 03:57:40,149 :: PASS: Input is provided.
+DEBUG 2020-12-11 03:57:40,149 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 03:57:40,149 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 03:59:00,332 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 04:00:00,177 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 04:01:00,217 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 04:03:00,761 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 04:04:00,799 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 04:13:00,047 :: Wake up!: Its time! Playing your favourite video!
+DEBUG 2020-12-11 20:56:53,982 :: PASS: Input is provided.
+DEBUG 2020-12-11 20:56:53,991 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 20:56:53,991 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 20:59:48,962 :: PASS: Input is provided.
+DEBUG 2020-12-11 20:59:48,962 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 20:59:48,962 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:00:21,363 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:00:21,363 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:00:21,363 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:01:01,149 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:01:01,149 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:01:01,149 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:01:17,791 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:01:17,791 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:01:17,791 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:02:17,513 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:02:17,513 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:02:17,513 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:05:36,721 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:05:36,721 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:05:36,721 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:06:09,705 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:06:09,705 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:06:09,705 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:09:12,482 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:09:12,482 :: PASS: Input does not have special characters.
+DEBUG 2020-12-11 21:09:12,482 :: PASS: Time entered by user is valid.
+DEBUG 2020-12-11 21:54:19,916 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:54:19,916 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-11 21:54:19,916 :: FAIL: Please enter time in correct format
+DEBUG 2020-12-11 21:54:34,630 :: PASS: Input is provided.
+DEBUG 2020-12-11 21:54:34,630 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-11 21:54:34,630 :: FAIL: Please enter time in correct format
+CRITICAL 2020-12-13 01:39:58,719 :: FAIL: No value provided.
+CRITICAL 2020-12-13 01:40:18,139 :: FAIL: No value provided.
+CRITICAL 2020-12-13 01:40:24,300 :: FAIL: No value provided.
+CRITICAL 2020-12-13 01:40:30,701 :: FAIL: No value provided.
+DEBUG 2020-12-13 01:40:37,188 :: PASS: Input is provided.
+DEBUG 2020-12-13 01:40:37,188 :: PASS: Input does not have special characters.
+CRITICAL 2020-12-13 01:40:37,188 :: FAIL: Please enter time in correct format
+DEBUG 2020-12-13 01:40:44,171 :: PASS: Input is provided.
+CRITICAL 2020-12-13 01:40:44,172 :: FAIL: Special characters detected.
+DEBUG 2020-12-13 01:41:05,306 :: PASS: Input is provided.
+CRITICAL 2020-12-13 01:41:05,306 :: FAIL: Special characters detected.
