@@ -28,3 +28,4 @@ task scheduler and batch file.
     * Using windows task scheduler, schedule the batch file to run every 15 min
     * [Reference](https://datatofish.com/python-script-windows-scheduler/) to create batch file and scheduling python code.
 3. Run user_interface.py to set the time and perform other operations.
+4. To test the working 'trigger_alarm.py' can be manually executed.
